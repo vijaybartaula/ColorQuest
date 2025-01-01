@@ -1,0 +1,77 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    background-image: url('hero.jpg');
+    background-size: cover;
+}
+
+.container {
+    text-align: center;
+    width: 700px;
+}
+
+h1 {
+    color: #190a0a;
+}
+
+#game {
+    margin: 20px;
+}
+
+#target-color {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+#color-options {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+.color-option {
+    width: 120px;
+    height: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #000000;
+    font-size: 1.2rem;
+    cursor: pointer;
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.color-option:hover {
+    transform: scale(1.1);
+}
+
+.correct {
+    box-shadow: 0 0 10px 2px #4CAF50;
+}
+
+.incorrect {
+    box-shadow: 0 0 10px 2px #F44336;
+}
+
+#score, #timer, #high-score {
+    margin-top: 10px;
+    font-size: 1rem;
+    color: #333;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 1rem;
+    cursor: pointer;
+}
