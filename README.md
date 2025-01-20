@@ -6,7 +6,7 @@ Welcome to **Color Quest**, an enthralling and delightful game that will test yo
 
 ## How to Play 🕹️
 
-- **Objective**: The goal of the game is simple yet captivating. Match the word displayed on the screen with the correct color. For example, if the word says "RED," you must select the color that matches the word "RED." Sounds easy, right? But the pressure of the ticking timer makes it more thrilling! 🌈
+- **Objective**: The goal of the game is simple yet captivating. Match the word displayed on the screen with the correct color. For example, if the word says "RED," you must select the color that matches the word "RED." Sounds easy, right? But the pressure of the ticking timer makes it more thrilling! 
   
 - **Score**: You earn 1 point for each correct match, but beware — a wrong selection will cause your score to drop by 1 point. Every decision counts!
 
@@ -20,15 +20,15 @@ Welcome to **Color Quest**, an enthralling and delightful game that will test yo
 
 - **Dynamic Color Options**: To keep the excitement alive, the color options are shuffled with each round. This ensures that no two rounds are ever the same! 🔄
   
-- **Visual Feedback**: After each selection, you'll receive instant feedback. A green glow means you're on the right track, while a red flash signals an incorrect choice. A fun way to keep you on your toes! 🌟🔴
+- **Visual Feedback**: After each selection, you'll receive instant feedback. A green glow means you're on the right track, while a red flash signals an incorrect choice. A fun way to keep you on your toes! 
 
 - **Timer Pressure**: With a countdown timer at your disposal, the game becomes an exhilarating race against time. Feel the rush as you strive to beat the clock! ⏰
 
-- **High Score Tracking**: Your highest score is proudly displayed on the screen, even after you reload the page. Can you achieve the ultimate high score and etch your name in Color Quest history? 🏆
+- **High Score Tracking**: Your highest score is proudly displayed on the screen, even after you reload the page. Can you achieve the ultimate high score and etch your name in Color Quest history? 
 
-- **Responsive Design**: Whether you're playing on a mobile phone or a desktop, the game adapts beautifully to your screen size, ensuring a seamless experience across all devices. 📱💻
+- **Responsive Design**: Whether you're playing on a mobile phone or a desktop, the game adapts beautifully to your screen size, ensuring a seamless experience across all devices. 💻
 
-- **Start/Restart**: Easily start a new game or restart after each session. Ready to try again and aim for that perfect score? Press the "Start Game" button and dive back in! 🔄
+- **Start/Restart**: Easily start a new game or restart after each session. Ready to try again and aim for that perfect score? Press the "Start Game" button and dive back in! 
 
 - **Game Over Alert**: When the game ends, a friendly alert will notify you of your final score, and if you’ve set a new high score, you’ll receive a celebratory message. 🥳
 
