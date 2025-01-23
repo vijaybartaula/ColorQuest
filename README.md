@@ -38,7 +38,7 @@ Welcome to **Color Quest**, an enthralling and delightful game that will test yo
 
 1. **Clone the Repository**: Begin your adventure by downloading or cloning the repository to your local machine with this simple command:
    ```bash
-   git clone https://github.com/vijaybartaula/color-hunt-game.git
+   git clone https://github.com/vijaybartaula/colorquest.git
    ```
 
 2. **Open the Game**: Once you've cloned the repository, open the `index.html` file in your browser to begin your color-matching quest!
@@ -50,12 +50,6 @@ Welcome to **Color Quest**, an enthralling and delightful game that will test yo
 ## Live Demonstrations 🌐
 
 Want to dive straight into the action? You can experience the live version of the game hosted on [Explore Demo](https://playcolorquest.netlify.app/). Immerse yourself in the fast-paced gameplay, and challenge yourself to reach new heights with every click. 🏁 How high can your score soar?
-
----
-
-## License 📜
-
-This project is open-source and free for anyone to use under the [MIT License](LICENSE). Feel free to fork, modify, or contribute to the game, and share it with friends and family. Let’s spread the fun!
 
 ---
 
